@@ -19,8 +19,7 @@ Key steps include:
 - Averaging channels A & B
 - Removing high humidity and inconsistent readings
 - Applying correction (Mousavi & Wu, 2021)
-- Aggregating to daily statistics
-
+  
 ## Requirements
 R packages:
 - dplyr
