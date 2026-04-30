@@ -2,14 +2,12 @@
 Ten-minute average PM2.5 concentrations (µg m^-3) measured by Community Air Research Experience PurpleAir sensors on August 2nd, 2023.
 
 project/
-│── data: PA_Aug2023_10min.csv
-│
-│── code: Plot_PA_Aug2nd_2023.R
-│
-│── output: PurpleAir_linePlot.jpeg; PurpleAir_BoxPlot.jpeg; output.csv
-│
-│── README.md
-│── LICENSE
+data: PA_Aug2023_10min.csv
+code: Plot_PA_Aug2nd_2023.R
+output: PurpleAir_linePlot.jpeg; PurpleAir_BoxPlot.jpeg; output.csv
+
+README.md
+LICENSE
 
 
 ## Overview
